@@ -1,0 +1,15 @@
+body {
+  background-color: rgba(209, 190, 190, 0.247);
+}
+
+.login {
+  margin-top: 5rem !important;
+
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: white;
+  margin-bottom: 3rem;
+}
+.login-form {
+  margin-top: 7rem !important;
+}
